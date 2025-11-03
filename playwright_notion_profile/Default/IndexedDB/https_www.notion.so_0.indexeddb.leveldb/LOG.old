@@ -1,0 +1,14 @@
+2025/10/14-03:11:56.702 4fac Reusing MANIFEST C:\Ulai\ulai_meet_ai\playwright_notion_profile\Default\IndexedDB\https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/14-03:11:56.703 4fac Recovering log #852
+2025/10/14-03:11:56.703 4fac Reusing old log C:\Ulai\ulai_meet_ai\playwright_notion_profile\Default\IndexedDB\https_www.notion.so_0.indexeddb.leveldb/000852.log 
+2025/10/14-03:11:56.703 4fac Delete type=2 #850
+2025/10/14-03:11:56.818 2040 Level-0 table #857: started
+2025/10/14-03:11:56.877 2040 Level-0 table #857: 4741 bytes OK
+2025/10/14-03:11:56.878 2040 Delete type=0 #852
+2025/10/14-03:11:56.879 4fac Manual compaction at level-0 from ' \x1f\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '  \x01\x00\x00\x00' @ 0 : 0; will stop at ' \x1f\x01\x00\x00\x05' @ 718165 : 1
+2025/10/14-03:11:56.879 4fac Compacting 1@0 + 1@1 files
+2025/10/14-03:11:56.884 4fac Generated table #858@0: 5173 keys, 71434 bytes
+2025/10/14-03:11:56.884 4fac Compacted 1@0 + 1@1 files => 71434 bytes
+2025/10/14-03:11:56.885 4fac compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/14-03:11:56.885 4fac Delete type=2 #857
+2025/10/14-03:11:56.885 6b1c Manual compaction at level-0 from ' \x1f\x01\x00\x00\x05' @ 718165 : 1 .. '  \x01\x00\x00\x00' @ 0 : 0; will stop at (end)

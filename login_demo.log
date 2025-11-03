@@ -1,0 +1,39 @@
+2025-10-15 22:44:44,105 [LOGIN-DEMO] 🌐 Loading https://ulai.in/...
+2025-10-15 22:44:53,773 [LOGIN-DEMO] 🔍 Extracting DOM for 'main' page...
+2025-10-15 22:44:54,838 [LOGIN-DEMO] ✅ Extracted: 33 buttons, 1 forms, 139 content blocks
+2025-10-15 22:44:54,839 [LOGIN-DEMO] 🎙️  Generating website introduction...
+2025-10-15 22:44:56,705 [LOGIN-DEMO] 🗣️  Hey there! Ulai is a leading AI voice agent platform that helps businesses like yours quickly deploy AI agents for voice engagements, no coding required. You can be up and running in just 15 minutes!
+2025-10-15 22:45:01,615 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:45:32,824 [LOGIN-DEMO] 
+================================================================================
+2025-10-15 22:45:32,824 [LOGIN-DEMO] 🔐 STARTING LOGIN FLOW
+2025-10-15 22:45:32,824 [LOGIN-DEMO] ================================================================================
+2025-10-15 22:45:32,824 [LOGIN-DEMO] 🗣️  I'll click on the LOGIN button now.
+2025-10-15 22:45:33,571 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:45:36,790 [LOGIN-DEMO] 🎯 Clicking: 'LOGIN'
+2025-10-15 22:45:37,629 [LOGIN-DEMO] 🖱️  Moving to (1142, 76)
+2025-10-15 22:45:42,652 [LOGIN-DEMO] ✅ Clicked successfully
+2025-10-15 22:45:45,653 [LOGIN-DEMO] 🗣️  Now I'm on the login page. Let me analyze the form.
+2025-10-15 22:45:46,241 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:45:51,384 [LOGIN-DEMO] 🔍 Extracting DOM for 'login' page...
+2025-10-15 22:45:52,409 [LOGIN-DEMO] ✅ Extracted: 5 buttons, 1 forms, 0 content blocks
+2025-10-15 22:45:52,409 [LOGIN-DEMO] 🗣️  This is the Login page.
+2025-10-15 22:45:53,073 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:45:55,791 [LOGIN-DEMO] 🗣️  I found a form with 1 input fields.
+2025-10-15 22:45:56,215 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:45:59,904 [LOGIN-DEMO] 🤖 Analyzing form fields for login...
+2025-10-15 22:46:01,663 [LOGIN-DEMO] ✅ Field mapping: {'email': 1, 'password': None, 'confirm_password': None, 'name': None, 'other': []}
+2025-10-15 22:46:01,665 [LOGIN-DEMO] 🗣️  I'll enter your email in the Your email field.
+2025-10-15 22:46:02,070 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:46:05,904 [LOGIN-DEMO] ⌨️  Typing into: Your email
+2025-10-15 22:46:06,725 [LOGIN-DEMO] 🖱️  Moving to (768, 450)
+2025-10-15 22:46:09,940 [LOGIN-DEMO] ✅ Typed successfully
+2025-10-15 22:46:10,441 [LOGIN-DEMO] 🗣️  Clicking the Login button.
+2025-10-15 22:46:11,175 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:46:13,736 [LOGIN-DEMO] 🎯 Clicking: 'Login'
+2025-10-15 22:46:14,556 [LOGIN-DEMO] 🖱️  Moving to (674, 245)
+2025-10-15 22:46:16,209 [LOGIN-DEMO] ✅ Clicked successfully
+2025-10-15 22:46:20,212 [LOGIN-DEMO] 🗣️  Login form submitted successfully!
+2025-10-15 22:46:20,770 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C
+2025-10-15 22:46:24,148 [LOGIN-DEMO] 🗣️  Login successful! You're now logged in to the platform.
+2025-10-15 22:46:24,622 [LOGIN-DEMO] Playing TTS through device: CABLE Input (VB-Audio Virtual C

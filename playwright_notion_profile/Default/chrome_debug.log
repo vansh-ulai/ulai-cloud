@@ -1,0 +1,99 @@
+[1012/011505.559:INFO:CONSOLE:1] "Resource Sentinel initialized...", source: https://www.notion.so/289745d6042b8076a9eace7074a3791a (1)
+[1012/011506.151:INFO:CONSOLE:1] "2025-10-11T19:45:06.147Z [info] FeatureFlagTransactionQueue: preferIndexedDB [object Object]", source: https://www.notion.so/_assets/app-173f427ee1b9322e.js (1)
+[1012/011506.761:INFO:CONSOLE:1] "%c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.so/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” --Abraham Lincoln (2023-07-14)
+				  font-family: monospace", source: https://www.notion.so/_assets/mainApp-838b37a4b11740a3.js (1)
+[1012/011506.882:INFO:CONSOLE:1] "2025-10-11T19:45:06.882Z [info] useLoadFirstPageChunk: loserAborted [object Object]", source: https://www.notion.so/_assets/app-173f427ee1b9322e.js (1)
+[1012/011507.130:INFO:CONSOLE:233] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/25770-9add6cb69636fab1.js (233)
+[1012/011507.130:INFO:CONSOLE:1] "2025-10-11T19:45:07.131Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/app-173f427ee1b9322e.js (1)
+[1012/011507.142:INFO:CONSOLE:1] "2025-10-11T19:45:07.142Z [warning] fetchAllUserSpaces: failedToLoadSpace [object Object]", source: https://www.notion.so/_assets/app-173f427ee1b9322e.js (1)
+[1012/011507.161:INFO:CONSOLE:1] "2025-10-11T19:45:07.162Z [error] main: ClientError [object Object]", source: https://www.notion.so/_assets/app-173f427ee1b9322e.js (1)
+[1012/011507.161:INFO:CONSOLE:206] "Uncaught (in promise) Error: Request failed", source: https://www.notion.so/_assets/25770-9add6cb69636fab1.js (206)
+[1012/011508.558:INFO:CONSOLE:233] "HttpRequestError: Received HTTP 400", source: https://www.notion.so/_assets/25770-9add6cb69636fab1.js (233)
+[1012/011510.458:INFO:CONSOLE:1] "Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance", source: https://www.notion.so/_assets/transport-support-79187dfcba564918.js (1)
+[1012/011510.459:INFO:CONSOLE:1] "2025-10-11T19:45:10.460Z [error] eventTrailApiHelpers: trackFailure [object Object]", source: https://www.notion.so/_assets/app-173f427ee1b9322e.js (1)
+[1012/011510.614:INFO:CONSOLE:1] "2025-10-11T19:45:10.614Z [warning] IndexedDBWrapper: db.onversionchange [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011510.643:INFO:CONSOLE:1] "2025-10-11T19:45:10.643Z [info] useLoadFirstPageChunk: loserAborted [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011510.689:INFO:CONSOLE:1] "Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep", source: https://www.notion.so/_assets/wasm-sqlite-worker-d978b57b3dad18b9.js (1)
+[1012/011510.778:INFO:CONSOLE:1] "2025-10-11T19:45:10.778Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.072:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.072:INFO:CONSOLE:1] "2025-10-11T19:45:11.073Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.080:INFO:CONSOLE:1] "2025-10-11T19:45:11.079Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.108:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.108:INFO:CONSOLE:1] "2025-10-11T19:45:11.109Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.113:INFO:CONSOLE:1] "2025-10-11T19:45:11.114Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.117:INFO:CONSOLE:1] "2025-10-11T19:45:11.118Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.305:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.305:INFO:CONSOLE:1] "2025-10-11T19:45:11.305Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.310:INFO:CONSOLE:1] "2025-10-11T19:45:11.310Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.318:INFO:CONSOLE:1] "2025-10-11T19:45:11.318Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.428:INFO:CONSOLE:1] "2025-10-11T19:45:11.428Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.480:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.480:INFO:CONSOLE:1] "2025-10-11T19:45:11.481Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.571:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.571:INFO:CONSOLE:1] "2025-10-11T19:45:11.571Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.575:INFO:CONSOLE:1] "2025-10-11T19:45:11.575Z [error] complianceIntegrationActions: fetchWebhookSubscriptionsError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.577:INFO:CONSOLE:1] "2025-10-11T19:45:11.577Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.585:INFO:CONSOLE:1] "2025-10-11T19:45:11.585Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.677:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.677:INFO:CONSOLE:1] "2025-10-11T19:45:11.677Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.911:INFO:CONSOLE:1] "2025-10-11T19:45:11.912Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.953:INFO:CONSOLE:1] "2025-10-11T19:45:11.953Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.965:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.966:INFO:CONSOLE:1] "2025-10-11T19:45:11.966Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.991:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011511.991:INFO:CONSOLE:1] "2025-10-11T19:45:11.991Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.059:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.059:INFO:CONSOLE:1] "2025-10-11T19:45:12.060Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.064:INFO:CONSOLE:1] "2025-10-11T19:45:12.064Z [error] TeamsStore: getTeamsV2Failed [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.065:INFO:CONSOLE:1] "2025-10-11T19:45:12.065Z [error] queueUpdateForSpaceUser: updateTeamsStoreFailedPromiseError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.067:INFO:CONSOLE:1] "2025-10-11T19:45:12.067Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.083:INFO:CONSOLE:1] "2025-10-11T19:45:12.083Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.206:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.207:INFO:CONSOLE:1] "2025-10-11T19:45:12.207Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.210:INFO:CONSOLE:1] "2025-10-11T19:45:12.211Z [error] complianceIntegrationActions: searchIntegrationsError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.213:INFO:CONSOLE:1] "2025-10-11T19:45:12.213Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.222:INFO:CONSOLE:1] "2025-10-11T19:45:12.223Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.237:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.237:INFO:CONSOLE:1] "2025-10-11T19:45:12.238Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.404:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.404:INFO:CONSOLE:1] "2025-10-11T19:45:12.405Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.505:INFO:CONSOLE:1] "[GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.512:INFO:CONSOLE:1] "2025-10-11T19:45:12.512Z [info] appHelpers: shouldShowError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.514:INFO:CONSOLE:1] "2025-10-11T19:45:12.514Z [info] pageError: pageError [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.563:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.564:INFO:CONSOLE:1] "2025-10-11T19:45:12.563Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.874:INFO:CONSOLE:0] "Provider's accounts list is empty.", source: https://www.notion.so/289745d6042b8076a9eace7074a3791a (0)
+[1012/011512.933:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011512.933:INFO:CONSOLE:1] "2025-10-11T19:45:12.933Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.062:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.063:INFO:CONSOLE:1] "2025-10-11T19:45:13.063Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.496:INFO:CONSOLE:1] "2025-10-11T19:45:13.495Z [warning] IndexedDBWrapper: db.onversionchange [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.497:INFO:CONSOLE:1] "[GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.553:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.553:INFO:CONSOLE:1] "2025-10-11T19:45:13.554Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.840:INFO:CONSOLE:1] "HttpRequestError: Received HTTP 401", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011513.840:INFO:CONSOLE:1] "2025-10-11T19:45:13.840Z [error] api: httpTrigger401 [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
+[1012/011514.263:INFO:CONSOLE:0] "Access to fetch at 'https://api-gw.metadata.io/traffic' from origin 'https://aif.notion.so' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.", source: https://aif.notion.so/aif-production.html (0)
+[1012/011514.263:INFO:CONSOLE:200] "Error recording traffic TypeError: Failed to fetch", source: https://cdn.metadata.io/site-insights.js (200)
+[1012/011515.135:INFO:CONSOLE:1] "2025-10-11T19:45:15.135Z [warning] IndexedDBWrapper: db.onversionchange [object Object]", source: https://www.notion.so/_assets/51706-5b63f2c0f63a454b.js (1)
