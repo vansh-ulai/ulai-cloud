@@ -1,1 +1,8 @@
 "token.json" 
+"cache/" 
+"temp/" 
+"*.y4m" 
+"*.webm" 
+"*.mp4" 
+"token.json" 
+"playwright_notion_profile/" 
